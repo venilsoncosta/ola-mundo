@@ -1,2 +1,2 @@
-# ol-mundo
+# olá, mundo
 Meu primeiro repositório
